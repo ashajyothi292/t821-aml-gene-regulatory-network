@@ -1,0 +1,16 @@
+# sequencing data and large intermediate files are never committed
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.bw
+*.bigwig
+*.bedgraph
+*.bdg
+*.gz
+.Rhistory
+.RData
+Rplots.pdf
+__pycache__/
+.DS_Store
